@@ -7,7 +7,7 @@ An AI-powered tool to rank resumes against job descriptions using Microsoft Azur
 
 ## 🔧 Setup
 ```bash
-git clone https://github.com/yourname/resume-ranker-microsoft-enhanced
+git clone https://github.com/suryanshsugara/Microsoft-AI/tree/main/Resume-Ranker
 cd resume-ranker-microsoft-enhanced
 python -m venv venv
 source venv/bin/activate
