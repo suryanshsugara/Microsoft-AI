@@ -1,4 +1,3 @@
-# main.py
 from fastapi import FastAPI, Query
 from fastapi.responses import JSONResponse
 from model import predict_price
